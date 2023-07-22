@@ -12,8 +12,8 @@ import sushi10 from "../assets/sushi-10.png";
 
 // init AOS animation
 AOS.init({
-  duration: 1000,
-  offset: 100,
+  // duration: 1000,
+  // offset: 100,
 });
 
 const trendingSushis = [
