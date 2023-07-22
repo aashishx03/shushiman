@@ -20,12 +20,12 @@
 
 .header__logo h4 {
   padding-left: 30px;
-
+  font-size: 21px;
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
   font-family: var(--playfair-display);
-  opacity: 0.8;
+  /* opacity: 0.8; */
 }
 
 .header__menu,
